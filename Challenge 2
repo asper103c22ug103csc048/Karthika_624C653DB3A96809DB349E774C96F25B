@@ -1,0 +1,4 @@
+s=`karthika!'
+if print(`hello`) ;
+   print('hi');
+else print('s+nice meet');
